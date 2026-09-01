@@ -1,6 +1,6 @@
 # Bienvenue sur mon github 👋
 
-Etudiant en 1ère année de bachelore en développement full-stack
+Etudiant en 2ème année de bachelore en développement full-stack
 
 ## Je code avec
 
